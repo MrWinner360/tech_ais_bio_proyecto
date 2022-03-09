@@ -70,7 +70,74 @@ p    {color: black;}
 <h1 style="text-alignment:center;"><h1 style="color:#33CCFF;"> Tablas de info</h1>
 </head>
 <body>
-<h2><h2 style="color:#44F9E2;">Preguntas preguntonas</h2>
 <p style="color:#4465F9;">En esta area de la página web podemos encontrar las tablas de información relacionada con información preguntada a nuestro participante/primo. Podemos encontrar tablas de información sobre el servicio social realizado y de sus gustos de carros. </p>
+<h2><h2 style="color:#44F9E2;">Tabla 1</h2>
+
+<style>
+table, th, td {
+  border: 1px solid orange;
+  border-radius: 2px;
+  color: #4465F9
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Tipo de evento</th>
+    <th>Cuándo?</th> 
+    <th>Dónde?</th>
+  </tr>
+  <tr>
+    <td>Una reforestación</td>
+    <td>En el año 2020</td>
+    <td>En una comunidad llamada el Aguacate.</td>
+  </tr>
+  <tr>
+    <td>Una donación de ropa y juguetes a niños con necesidad </td>
+    <td>En el año 2019</td>
+    <td>En una aldea llamada Agua Zarca.</td>
+  </tr>
+  <tr>
+    <td>Entrega de víveres a personas afectadas por la erupción del volcán.</td>
+    <td>En el año 2018</td>
+    <td>En ciudad vieja y Antigua Guatemala.</td>
+  </tr>
+</table>
+
+<h2><h2 style="color:#44F9E2;">Tabla 2</h2>
+
+<style>
+table, th, td {
+  border: 1px solid orange;
+  border-radius: 2px;
+  color: #4465F9
+}
+</style>
+</head>
+<body>
+
+<table style="width:100%">
+  <tr>
+    <th>Lamborguini</th>
+    <th>McLaren</th> 
+    <th>Ferrari</th>
+    <th>Bugatti<th/>
+  </tr>
+  <tr>
+    <td>Aventador</td>
+    <td>720s</td>
+    <td>California</td>
+    <td>Chirron</td>
+  </tr>
+  <tr>
+    <td>Deportivo</td>
+    <td>Deportivo</td>
+    <td>Deportivo</td>
+    <td>Deportivo</td>
+  </tr>
+</table>
+
 </body>
 </html>
